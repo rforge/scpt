@@ -1,0 +1,12 @@
+Package: scpt
+Type: Package
+Title: Change Point Test for Spatio-Temporal Functional Data
+Version: 0.1
+Date: 2015-09-06
+Author: Sasha Gromenko and Matthew Reimherr
+Maintainer: Matthew Reimherr <mreimherr@psu.edu>
+Description: Tests if functional time series observed at different spatial locations have a constant mean, or if the mean changes at some time point.
+License: GPL-2
+LazyData: TRUE
+LinkingTo: Rcpp, RcppArmadillo
+Imports: RcppArmadillo,splines,parallel
