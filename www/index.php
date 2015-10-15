@@ -47,7 +47,7 @@ echo $contents; } ?>
 
 <p> The <strong>project summary page</strong> you can find <a href="http://<?php echo $domain; ?>/projects/<?php echo $group_name; ?>/"><strong>here</strong></a>. </p>
 
-<p> An example code can be found at <a href="www.personal.psu.edu/~mlr36/codes.html"><strong>here</strong></a>. </p>
+<p> An example code can be found at <a href="http://www.personal.psu.edu/~mlr36/codes.html"><strong>here</strong></a>. </p>
 
 </body>
 </html>
